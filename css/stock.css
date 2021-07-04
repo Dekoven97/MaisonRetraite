@@ -1,0 +1,27 @@
+/*==============for stock=====================*/
+
+
+
+/*------------------(se connnecter) link---------------*/
+
+.link{
+    margin-left: auto;
+    color:black;
+    text-decoration: none;
+ }
+ .link:hover{
+  box-shadow: 0px 1px ghostwhite;
+  text-decoration: none; 
+ }
+ 
+ /*-----user avatar------*/
+ .use{
+  color:black;
+  margin-left: -10px;
+  font-size: 40px;
+   
+ }
+ 
+ .fa-sign-out-alt{
+    color:red;
+ }

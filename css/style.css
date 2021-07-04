@@ -1,0 +1,51 @@
+
+
+
+.foot{
+   height:70px;
+  
+}
+.main{
+   height:auto;
+}
+#demo{
+   height:400px;
+   
+}
+.carousel-indicators li{
+   background-color: black;
+   border-radius: 100%;
+   width: 5px;
+   height: 5px;
+}
+.carousel-indicators li:hover{
+   background-color: white;
+  
+}
+
+
+
+
+/*------------------(se connnecter) link---------------*/
+
+.link{
+   margin-left: auto;
+   color:black;
+   text-decoration: none;
+}
+.link:hover{
+ box-shadow: 0px 1px ghostwhite;
+ text-decoration: none; 
+}
+
+/*-----user avatar------*/
+.use{
+ color:black;
+ margin-left: -10px;
+ font-size: 40px;
+  
+}
+
+.fa-sign-out-alt{
+   color:red;
+}
